@@ -7,8 +7,9 @@
 
 I'm a software engineer and entrepeuneer who is passionate about creating technology to help people, provide new solutions and help new developers to find the right path. I enjoy working with include Swift, Kotlin, Java, JavaScript and DevOps.
 
-- 🔭  Senior Software Engnieer [@Zeew](https://www.zeew.eu/) in Riga, Latvia.
+- 🔭  Product Owner [@Zeew](https://www.zeew.eu/) in Tallinn, Estonia.
 - 🔭  Co-Founder [@Crete Agency](https://www.creteagency.com/) in Cairo, Egypt.
+- 🔭  Co-Founder [@Viajero](https://viajero.app/) in Cairo, Egypt.
 - 🔭  Enthusiast Traveller [@Routards](https://www.facebook.com/Routards.eg) in Cairo, Egypt.
 - 💬  Ask me about **Native Mobile Development**
 - 📫  Portfolio: [nakeeb.me](https://nakeeb.me)
