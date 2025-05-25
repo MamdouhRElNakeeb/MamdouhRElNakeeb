@@ -7,9 +7,9 @@
 
 I'm a software engineer and entrepeuneer who is passionate about creating technology to help people, provide new solutions and help new developers to find the right path. I enjoy working with include Swift, Kotlin, Java, JavaScript and DevOps.
 
-- 🔭  CTO & Partner [@Stunning](https://stunning.so/) in Tallinn, Estonia.
-- 🔭  CTO & Partner [@Zeew](https://www.zeew.eu/) in Tallinn, Estonia.
-- 🔭  Co-Founder [@Crete Agency](https://www.creteagency.com/) in Cairo, Egypt.
+- 🔭  CTO & Co-Founder [@Crete Agency](https://www.creteagency.com/) in Cairo, Egypt.
+- 🔭  Partner [@Stunning](https://stunning.so/) in Tallinn, Estonia.
+- 🔭  Partner [@Zeew](https://www.zeew.eu/) in Tallinn, Estonia.
 - 🔭  Co-Founder [@Viajero](https://viajero.app/) in Cairo, Egypt.
 - 🔭  Enthusiast Traveller [@Routards](https://www.facebook.com/Routards.eg) in Cairo, Egypt.
 - 💬  Ask me about **Cloud Engineering, DevOps & Software Engineering**
